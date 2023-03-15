@@ -1,1 +1,1 @@
-print("GOOD")
+print("TEST")
